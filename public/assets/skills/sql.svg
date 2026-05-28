@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+  </defs>
+  <!-- Top Plate -->
+  <path d="M10,20 C10,13 20,10 32,10 C44,10 54,13 54,20 L54,26 C54,33 44,36 32,36 C20,36 10,33 10,26 Z" fill="url(#grad)" />
+  <ellipse cx="32" cy="20" rx="22" ry="6" fill="#ffffff" opacity="0.25" />
+  
+  <!-- Middle Plate -->
+  <path d="M10,30 C10,37 20,40 32,40 C44,40 54,37 54,30 L54,36 C54,43 44,46 32,46 C20,46 10,43 10,36 Z" fill="url(#grad)" />
+  <ellipse cx="32" cy="30" rx="22" ry="6" fill="#ffffff" opacity="0.2" />
+
+  <!-- Bottom Plate -->
+  <path d="M10,40 C10,47 20,50 32,50 C44,50 54,47 54,40 L54,46 C54,53 44,56 32,56 C20,56 10,53 10,46 Z" fill="url(#grad)" />
+  <ellipse cx="32" cy="40" rx="22" ry="6" fill="#ffffff" opacity="0.15" />
+  
+  <!-- SQL Text label overlay -->
+  <text x="32" y="37" font-family="'Outfit', 'Inter', sans-serif" font-size="10" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="0.5" style="text-shadow: 0px 1px 3px rgba(15, 23, 42, 0.6)">SQL</text>
+</svg>

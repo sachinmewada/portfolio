@@ -1,0 +1,138 @@
+[
+  {
+    "key": 7,
+    "id": 7,
+    "title": "TechMart",
+    "imageSrc": "/assets/projects/techmart.png",
+    "description": "A feature-rich e-commerce store with custom shopping cart system, dynamic product catalogs, and custom analytics dashboards.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "Full Stack",
+    "technologies": ["React", "Node.js", "Express", "MongoDB", "Stripe API"],
+    "features": [
+      "Stripe API integration supporting secure credit card gateways",
+      "Dynamic catalog filters (by brand, pricing, review ratings)",
+      "Interactive sales and stock dashboards using Chart.js",
+      "Real-time administrative control panel for product inventories"
+    ]
+  },
+  {
+    "key": 8,
+    "id": 8,
+    "title": "AI Voice Assistant",
+    "imageSrc": "/assets/projects/ai_voice_assistant.png",
+    "description": "Intelligent desktop voice assistant built in Python implementing automated voice queries, speech recognition, and system management APIs.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "AI",
+    "technologies": ["Python", "SpeechRecognition", "Pyttsx3", "Wikipedia API"],
+    "features": [
+      "Highly responsive voice triggers converting speech to query logic",
+      "System automation capabilities (launches browsers, plays media)",
+      "API integrations fetching real-time weather and wiki abstracts",
+      "Offline Text-to-Speech (TTS) engine support with pyttsx3"
+    ]
+  },
+  {
+    "key": 1,
+    "id": 1,
+    "title": "ERP System for Government Services",
+    "imageSrc": "/assets/erp.png",
+    "description": "Collaborated on ERP development for government services using Drupal and PHP. Customized modules and managed secure backend structures.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "Web",
+    "technologies": ["Drupal", "PHP", "MySQL", "JavaScript", "CSS"],
+    "features": [
+      "Custom module development for citizen application processing",
+      "Secure role-based database authentication & audit logs",
+      "RESTful API integration with local registry services",
+      "Dynamic dashboards for administrative analytics"
+    ]
+  },
+  {
+    "key": 2,
+    "id": 2,
+    "title": "Quiz Web Application",
+    "imageSrc": "https://cdn-icons-png.flaticon.com/512/3407/3407024.png",
+    "description": "Dynamic Quiz app with real-time scoring, randomization, and a responsive UI built with HTML/CSS/JS.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "Web",
+    "technologies": ["JavaScript", "HTML5", "CSS3", "JSON"],
+    "features": [
+      "Randomized question selection from structured JSON datasets",
+      "Real-time scoreboard tracking and progressive animations",
+      "Responsive layout optimized for mobile and desktop screens",
+      "Timer-based challenge modes to increase interactivity"
+    ]
+  },
+  {
+    "key": 3,
+    "id": 3,
+    "title": "MPOonline AI Club Platform",
+    "imageSrc": "/assets/mponline.png",
+    "description": "Full-stack AI platform with RBAC, Kanban tracking, and AI-powered directory search using React and Node.js.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "Full Stack",
+    "technologies": ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+    "features": [
+      "Integrated Kanban boards for project collaboration tracking",
+      "Role-Based Access Control (RBAC) with secure JWT sessions",
+      "AI-powered search for directory query processing",
+      "Interactive data charts demonstrating project analytics"
+    ]
+  },
+  {
+    "key": 4,
+    "id": 4,
+    "title": "React Shopping-Cart",
+    "imageSrc": "https://www.svgrepo.com/show/217771/shopping-logo.svg",
+    "description": "A comprehensive e-commerce shopping cart built with React, featuring state management and a clean UI.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "React",
+    "technologies": ["React", "Redux Toolkit", "CSS Modules", "Vite"],
+    "features": [
+      "Global state management utilizing Redux for seamless cart updates",
+      "Persistent user sessions with cart local-storage binding",
+      "Fluid page transitions and slide-out cart drawers",
+      "Mock API integration for real-time inventory management"
+    ]
+  },
+  {
+    "key": 5,
+    "id": 5,
+    "title": "React Video Call App",
+    "imageSrc": "https://cdn-icons-png.flaticon.com/512/7828/7828004.png",
+    "description": "Real-time video communication application built with React and WebRTC for seamless connectivity.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "React",
+    "technologies": ["React", "WebRTC", "Socket.io", "Node.js", "CSS"],
+    "features": [
+      "Peer-to-peer audio and video transmission via WebRTC",
+      "Real-time signaling channel hosted with Socket.io server",
+      "Responsive video feeds grid supporting multiple display ratios",
+      "Built-in chat sidebar for parallel text messaging"
+    ]
+  },
+  {
+    "key": 6,
+    "id": 6,
+    "title": "React RandomGifGenerator",
+    "imageSrc": "/assets/projects/random_gif.png",
+    "description": "Fun application that fetches and displays random GIFs using an external API, showcasing API integration skills.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "category": "React",
+    "technologies": ["React", "Giphy API", "CSS Effects", "Axios"],
+    "features": [
+      "Asynchronous search queries integrating Giphy Developer APIs",
+      "Dynamic loader overlays and smooth card fade-in transitions",
+      "Category tags selection to filter randomized results",
+      "Instant copy-to-clipboard sharing links functionality"
+    ]
+  }
+]

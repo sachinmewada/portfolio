@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "C",
+    "imageSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+    "color": "rgba(92, 107, 192, 0.3)"
+  },
+  {
+    "id": 2,
+    "title": "C++",
+    "imageSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+    "color": "rgba(3, 105, 180, 0.3)"
+  },
+  {
+    "id": 3,
+    "title": "HTML",
+    "imageSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "color": "rgba(230, 81, 0, 0.3)"
+  },
+  {
+    "id": 4,
+    "title": "CSS",
+    "imageSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "color": "rgba(2, 119, 189, 0.3)"
+  },
+  {
+    "id": 5,
+    "title": "JavaScript",
+    "imageSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "color": "rgba(253, 216, 53, 0.25)"
+  },
+  {
+    "id": 6,
+    "title": "React",
+    "imageSrc": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "color": "rgba(0, 216, 255, 0.3)"
+  },
+  {
+    "id": 7,
+    "title": "Drupal",
+    "imageSrc": "/assets/skills/drupal.svg",
+    "color": "rgba(0, 115, 186, 0.3)"
+  },
+  {
+    "id": 8,
+    "title": "SQL",
+    "imageSrc": "/assets/skills/sql.svg",
+    "color": "rgba(129, 140, 248, 0.3)"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Graduate Engineer Trainee",
+    "organisation": "MPOnline Ltd.",
+    "startDate": "Oct, 2025",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Currently working as a Web Development Intern on an ERP-based project using Drupal and PHP.",
+      "Configuring modules, creating content structures, and managing database integration.",
+      "Utilizing tools like Git, Docker, Composer, and Drush to implement government service solutions."
+    ],
+    "imageSrc": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+  }
+]
